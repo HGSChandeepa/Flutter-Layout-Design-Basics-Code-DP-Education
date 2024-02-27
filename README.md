@@ -1,16 +1,13 @@
-# layout_1
+![DP Education IT Campus](https://dpeducation.lk/en/assets/images/brands/en/it-campus.png)
 
-A new Flutter project.
 
-## Getting Started
+# Flutter Layout Basics ⚡️
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+This repository contains the Flutter code for a layout design showcased in a video. The video demonstrates the implementation of a full Flutter layout design, showcasing various widgets and design techniques.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What you will create
+
+![Finished App](https://github.com/HGSChandeepa/Flutter-Layout-Design-Basics-Code-DP-Education/blob/main/assets/full.png)
